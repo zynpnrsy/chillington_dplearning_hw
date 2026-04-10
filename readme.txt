@@ -1,5 +1,5 @@
 venvi aktive etmek için girdiğim komut
-source /Users/zeyneppinarsoy/Desktop/codes/chillington_dplearning_hw/.venv/bin/activate
+source /Users/x/Desktop/codes/chillington_dplearning_hw/.venv/bin/activate
 
 
 
